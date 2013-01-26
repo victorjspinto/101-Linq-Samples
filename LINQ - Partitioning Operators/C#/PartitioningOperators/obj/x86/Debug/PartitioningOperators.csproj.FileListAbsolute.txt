@@ -1,0 +1,12 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\bin\Debug\PartitioningOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\bin\Debug\PartitioningOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\PartitioningOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\PartitioningOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\PartitioningOperators\PartitioningOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\PartitioningOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\PartitioningOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\bin\Debug\PartitioningOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\bin\Debug\PartitioningOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\PartitioningOperators\PartitioningOperators\obj\x86\Debug\ResolveAssemblyReference.cache

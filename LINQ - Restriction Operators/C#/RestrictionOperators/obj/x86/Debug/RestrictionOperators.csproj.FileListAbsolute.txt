@@ -1,0 +1,12 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\bin\Debug\RestrictionOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\bin\Debug\RestrictionOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\RestrictionOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\RestrictionOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\RestrictionOperators\RestrictionOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\RestrictionOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\RestrictionOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\bin\Debug\RestrictionOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\bin\Debug\RestrictionOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\RestrictionOperators\RestrictionOperators\obj\x86\Debug\ResolveAssemblyReference.cache

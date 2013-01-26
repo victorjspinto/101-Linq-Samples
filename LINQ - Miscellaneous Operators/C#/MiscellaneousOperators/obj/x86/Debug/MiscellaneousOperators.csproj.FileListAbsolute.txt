@@ -1,0 +1,12 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\MiscellaneousOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\MiscellaneousOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\MiscellaneousOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\MiscellaneousOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\MiscellaneousOperators\MiscellaneousOperators\obj\x86\Debug\ResolveAssemblyReference.cache

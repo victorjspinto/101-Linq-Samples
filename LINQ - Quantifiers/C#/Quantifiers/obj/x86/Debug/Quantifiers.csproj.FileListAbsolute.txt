@@ -1,0 +1,12 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\ResolveAssemblyReference.cache

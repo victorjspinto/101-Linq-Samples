@@ -1,0 +1,12 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\bin\Debug\SetOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\bin\Debug\SetOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\obj\x86\Debug\SetOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\obj\x86\Debug\SetOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\SetOperators\SetOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\obj\x86\Debug\SetOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\obj\x86\Debug\SetOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\bin\Debug\SetOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\bin\Debug\SetOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\SetOperators\SetOperators\obj\x86\Debug\ResolveAssemblyReference.cache
